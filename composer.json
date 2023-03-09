@@ -1,5 +1,5 @@
 {
-    "name": "shubh1911/cmp",
+    "name": "shubh1911/cmpose",
     "description": "this is my first package",
     "autoload": {
         "psr-4": {
